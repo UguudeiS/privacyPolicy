@@ -27,7 +27,6 @@ Any software that may be available to download from the App (the “Software”)
 
 Use of the Software is governed by the terms of the end user license agreement, if any, which accompanies or is included with the Software (“License Agreement”). Unless otherwise follows from the License Agreement the Software is made available for downloading solely for use by end users. Further, unless otherwise follows from the License Agreement, the Software may be used solely for the purpose for which the Software is made available. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited and may result in civil and criminal penalties.
 
-The Software is warranted, if at all, only according to the terms of the License Agreement. Except as may thus be warranted in the License Agreement, Polestar Beta Tester hereby disclaims all warranties with regard to the Software, including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement.
 
 Intellectual Property
-The content of the App is protected by copyright and other intellectual property rights. The content of the App may therefore not be reproduced or communicated without the prior written consent of Polestar Beta Tester. All trademarks and trade names displayed on the webApp are the property of Polestar Beta Tester.
+The content of the App is protected by copyright and other intellectual property rights. The content of the App may therefore not be reproduced or communicated without the prior written consent of Polestar Beta Tester. All trademarks and trade names displayed on the Android App are the property of Polestar.
